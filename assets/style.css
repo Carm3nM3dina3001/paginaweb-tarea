@@ -1,0 +1,35 @@
+.header-videos{
+    background: rgb(3, 56, 126);
+    height: 90px;
+}
+
+.footer-area{
+    position: relative;
+    background: #fff;
+}
+
+.videos-section{
+    background-color: rgb(110, 132, 145);
+    padding: 100px;
+    display: flex;
+}
+
+.videos-section h1{
+    padding: 20px;
+    color: #112434;
+}
+
+*{
+    background: rgb(110, 132, 145);;
+}
+
+.info{
+    text-align: left;
+    padding: 80px;
+}
+
+.musica{
+    display: flex;
+    padding: 50px;
+    position: relative;
+}
